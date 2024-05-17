@@ -1,0 +1,29 @@
+[
+    {
+        "year": 2023,
+        "title": "DevSecOps",
+        "info": {
+            "release_date": "2023-01-03",
+            "rank": 2,
+            "authors": [
+                "Daniel Bruhl",
+                "Chris Hemsworth",
+                "Olivia Wilde"
+            ]
+        }
+    },
+    {
+        "year": 2022,
+        "title": "IaaS Tools",
+        "info": {
+            "release_date": "2022-12-01",
+            "rank": 3,
+            "authors": [
+                "Daniel Bruhl",
+                "Chris Hemsworth",
+                "Olivia Wilde"
+            ]
+        }
+    }
+
+]
